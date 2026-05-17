@@ -1,0 +1,44 @@
+# Gulshan Ravendra Nanda Portfolio
+
+This repository contains my portfolio website and Python beginner projects.
+
+## About Me
+My name is Gulshan Kumar. I am a fresher Python Developer and B.Tech 2026 passout candidate.
+
+## Skills
+- Python
+- AI
+- chatgpt
+- openai
+- cloud engineer
+- ml engineer
+- Data Analytics
+- Data Science
+- Data Engineer
+- SQL
+- R-Programming
+- Advance Excel
+- c or c#
+- oops
+- java
+- HTML
+- CSS
+- JavaScript
+- GitHub
+- Data Handling
+- File Handling
+
+## Projects
+### 1. Student Management System
+A Python project to add, view, search, update, and delete student records.
+
+### 2. Calculator
+A basic Python calculator using functions.
+
+### 3. Portfolio Website
+A personal website created using HTML, CSS, and JavaScript.
+
+## How to Run Python Projects
+```bash
+python python_projects/student_management.py
+python python_projects/calculator.py
