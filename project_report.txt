@@ -1,0 +1,33 @@
+IPL Data Analysis Project Report
+
+1. Introduction
+IPL Data Analysis is a Python project that analyzes IPL match and player data using CSV files.
+
+2. Objective
+To find team performance, player performance, toss decisions, top run scorers, top wicket takers and create charts.
+
+3. Tools Used
+Python 3.6.4
+Pandas
+Matplotlib
+CSV files
+
+4. Modules
+pandas: data loading and analysis
+matplotlib: graph creation
+
+5. Dataset
+ipl_matches.csv contains match information.
+ipl_players.csv contains player information.
+
+6. Main Features
+- Display IPL matches
+- Count team wins
+- Analyze toss decisions
+- Find top run scorers
+- Find top wicket takers
+- Create team performance summary
+- Generate charts
+
+7. Conclusion
+This project is useful for beginner data analysis, Python practice, resume, GitHub and college mini project.
