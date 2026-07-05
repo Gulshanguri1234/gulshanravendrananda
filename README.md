@@ -1,45 +1,17 @@
-# IPL Data Analysis Project
+# Gulshan Kumar - Python & Data Science Projects
 
-## Project Title
-IPL Data Analysis using Python
+This folder contains a complete GitHub-ready portfolio structure with Python basics, data analysis, machine learning, AI and business intelligence projects.
 
-## Project Profile / Resume Description
-Developed a Python-based IPL Data Analysis project to analyze match records, team wins, toss decisions, top run scorers, top wicket takers, and team performance summary using Pandas and Matplotlib.
+## Main Categories
+1. Python Basics Projects
+2. Data Analysis Projects
+3. Machine Learning Projects
+4. AI Projects
+5. Business Intelligence Projects
+6. Certificates
+7. Resume
+8. Presentation PPT
+9. Project Reports PDF
+10. Source Code
 
-## Skills Used
-Python, Pandas, Matplotlib, CSV Data Handling, Data Analysis, Data Visualization
-
-## Files Included
-- `ipl.py` — Main complete analysis project
-- `text.py` — Menu-based IPL analysis project
-- `ipl_matches.csv` — Sample IPL match dataset
-- `ipl_players.csv` — Sample IPL player dataset
-- `team_performance_summary.csv` — Generated output file after running project
-- Graph images are generated after running `ipl.py`
-
-## How to Run
-
-```bash
-pip install pandas matplotlib
-python ipl.py
-```
-
-For menu-based project:
-
-```bash
-python text.py
-```
-
-## Output
-The project gives:
-- Team-wise wins
-- Toss decision count
-- Player of the match count
-- Season-wise matches
-- Top run scorers
-- Top wicket takers
-- Team performance summary
-- Graphs for visualization
-
-## Resume-ready Project Line
-IPL Data Analysis Project: Built a Python data analysis project using Pandas and Matplotlib to analyze IPL matches, team performance, player stats, toss decisions, and generate visual reports.
+Upload this complete folder to Google Drive and GitHub.

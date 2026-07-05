@@ -1,0 +1,22 @@
+# Gulshan Kumar - Python & Data Science Projects
+
+- **01_Python_Basics_Projects / Student Result Management System** - Python CLI app to manage student marks, grades, percentages and result summaries.
+- **01_Python_Basics_Projects / Expense Tracker** - Python app to record expenses, classify categories and summarize monthly spending.
+- **01_Python_Basics_Projects / To-Do List App** - Task manager with status tracking, priority and simple productivity report.
+- **01_Python_Basics_Projects / Password Generator** - Secure password generator with strength rules, length and character options.
+- **02_Data_Analysis_Projects / Sales Data Analysis** - Data analysis project for revenue, profit, product and region insights.
+- **02_Data_Analysis_Projects / Excel Dashboard** - Excel-based dashboard project using KPI tables, formulas and charts.
+- **02_Data_Analysis_Projects / Student Performance Analysis** - Academic performance analysis using marks, attendance and pass/fail trends.
+- **03_Machine_Learning_Projects / Student Marks Prediction** - Machine learning regression project to predict marks from study hours and attendance.
+- **03_Machine_Learning_Projects / House Price Prediction** - Regression project to estimate house price using area, rooms, location and age.
+- **03_Machine_Learning_Projects / Sales Prediction** - Prediction project to forecast sales from marketing spend and historical demand.
+- **03_Machine_Learning_Projects / Weather Prediction** - Classification/regression style project for basic weather condition prediction.
+- **03_Machine_Learning_Projects / Disease Prediction** - Health-risk prediction project using symptoms and basic patient features.
+- **03_Machine_Learning_Projects / Stock Price Prediction** - Time-series style project for stock trend analysis and basic price forecasting.
+- **04_AI_Projects / AI Resume Analyzer** - NLP project to analyze resume skills, match job descriptions and give improvement suggestions.
+- **04_AI_Projects / Fake News Detection** - NLP classification project to identify likely fake or real news text.
+- **04_AI_Projects / Resume Screening AI** - AI project to rank candidates based on skills, experience and job-role matching.
+- **04_AI_Projects / AI Chatbot** - Rule-based and ML-ready chatbot project for user queries and responses.
+- **05_Business_Intelligence / BI Dashboard with AI Insights** - Business intelligence dashboard with automatic KPI insights and recommendations.
+- **05_Business_Intelligence / Power BI Dashboard** - Power BI analytics project with DAX formulas, data model guide and KPI dashboard plan.
+- **05_Business_Intelligence / Streamlit Dashboard** - Interactive web dashboard using Streamlit, Plotly, filters, KPI cards and downloadable reports.
